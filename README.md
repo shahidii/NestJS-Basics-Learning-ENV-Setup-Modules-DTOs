@@ -23,7 +23,18 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+# NestJS Basics Learning – ENV Setup, Modules & DTOs
+
+This is a beginner-level project built with **NestJS** to explore the core structure and features of the framework. The goal is to get hands-on experience with:
+
+- NestJS app structure
+- Environment variable management and validation
+- Creating and organizing modules
+- Using Data Transfer Objects (DTOs) for request validation
+- Managing dependencies with **pnpm**
+
+---
+
 
 ## Project setup
 
